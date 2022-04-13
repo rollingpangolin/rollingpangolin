@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rollingpangolin
 - 👀 I’m interested in programming of PHP, JavasScript, Java
-- 🌱 I’m currently diving in MongoDB & VueJS
+- 🌱 I’m currently diving in VueJS & GraphQL
 - 💞️ I’m looking to collaborate on smart and challenging projects
 - 📫 robert.hz.liu@gmail.com
 
